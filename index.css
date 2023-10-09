@@ -1,7 +1,8 @@
 body {
     margin: 0;
     padding: 30px;
-    font-family:Arial, Helvetica, sans-serif
+    font-family:Arial, Helvetica, sans-serif;
+    /* THIS */  
 }
 hr {
     border-top: 2px solid;
@@ -26,8 +27,9 @@ hr {
     justify-content: space-between;
 }
 .header-middle h1 {
+    /* 40px */
     font-size: 40px;
-    font-weight: 600;
+    font-weight: 700;
 }
 .header-right {
     display: flex;
@@ -101,7 +103,7 @@ hr {
 
 .honors-and-awards-section {
     margin: 0;
-    margin-top: 30px;
+    margin-top: 15px;
 }
 .honors-and-awards-section h2 {
     font-size: 15px;
@@ -111,7 +113,7 @@ hr {
 
 .skills-section {
     margin: 0;
-    margin-top: 30px;
+    margin-top: 10px;
 }
 .skills-section h2 {
     font-size: 15px;
